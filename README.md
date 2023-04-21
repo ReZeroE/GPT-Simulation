@@ -1,2 +1,2 @@
-# GPT-3.5-Simulation
+# GPT-Simulation
 ChatGPT 3.5 Turbo based character interaction simulation 
