@@ -1,0 +1,4 @@
+gpt:
+  organization-key:   xxxxxxxxxxxxxxxxxxxxxxxxx
+  api-key:            xxxxxxxxxxxxxxxxxxxxxxxxx
+  engine:             gpt-3.5-turbo

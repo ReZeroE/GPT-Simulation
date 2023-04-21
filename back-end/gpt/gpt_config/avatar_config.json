@@ -1,0 +1,61 @@
+{
+    "narrarator": [
+        {
+            "id": "N1",
+            "name": "Narrator",
+            "traits": [],
+            "description": "",
+            "misc": ""
+        }
+    ],
+    "characters": [
+        {
+            "id": "C1",
+            "name": "Elaina Frost",
+            "traits": [
+                "friendly",
+                "honest",
+                "diligent"
+            ],
+            "hobbies": [
+                "violin",
+                "painting water color",
+                "hiking"
+            ],
+            "description": "First-year Biology major university student at High Tech University. Minored in Art and Design.",
+            "misc": ""
+        }, 
+        {
+            "id": "C2",
+            "name": "Andy Wellson",
+            "traits": [
+                "carefree",
+                "imaginative",
+                "judgemental"
+            ],
+            "hobbies": [
+                "football and watching football",
+                "video games",
+                "hiking"
+            ],
+            "description": "First-year Biology major university student at High Tech University.",
+            "misc": ""
+        },
+        {
+            "id": "C3",
+            "name": "Sarah Anderson",
+            "traits": [
+                "inspirational",
+                "caring",
+                "decisive"
+            ],
+            "hobbies": [
+                "cooking",
+                "video games",
+                "puzzles"
+            ],
+            "description": "First-year Food and Cooking major university student at High Tech University.",
+            "misc": ""
+        }
+    ]
+}
